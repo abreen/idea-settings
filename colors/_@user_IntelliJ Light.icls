@@ -3,7 +3,7 @@
     <property name="created">2022-11-11T20:59:51</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2020.1.4.0.0</property>
-    <property name="modified">2022-11-12T14:31:16</property>
+    <property name="modified">2022-11-12T15:20:42</property>
     <property name="originalScheme">IntelliJ Light</property>
   </metaInfo>
   <colors>
@@ -286,8 +286,8 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="edebfc" />
-        <option name="ERROR_STRIPE_COLOR" value="d0a1ff" />
+        <option name="BACKGROUND" value="ffe480" />
+        <option name="ERROR_STRIPE_COLOR" value="ffe480" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -344,11 +344,6 @@
     </option>
     <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_FIELD" />
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
-    <option name="STATIC_METHOD_ATTRIBUTES">
-      <value>
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="7f0000" />
