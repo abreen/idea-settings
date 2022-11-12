@@ -17,5 +17,10 @@
         <added pattern="t" />
       </blacklist>
     </blacklists>
+    <option id="java.new.expr" value="false" />
+    <option id="java.enums" value="false" />
+    <disabledLanguages>
+      <language id="JAVA" />
+    </disabledLanguages>
   </component>
 </application>
