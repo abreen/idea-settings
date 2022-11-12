@@ -1,0 +1,21 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="h" />
+        <added pattern="i" />
+        <added pattern="j" />
+        <added pattern="k" />
+        <added pattern="l" />
+        <added pattern="m" />
+        <added pattern="n" />
+        <added pattern="o" />
+        <added pattern="p" />
+        <added pattern="q" />
+        <added pattern="r" />
+        <added pattern="s" />
+        <added pattern="t" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
