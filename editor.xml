@@ -55,6 +55,7 @@
     <option name="disabledHintProviderIds">
       <set>
         <option value="JAVA.annotation.hints" />
+        <option value="JAVA.chain.hints" />
       </set>
     </option>
     <option name="lastViewedProviderKeyId" value="JAVA.annotation.hints" />
