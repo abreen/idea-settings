@@ -2,6 +2,11 @@
   <component name="CodeFoldingSettings">
     <option name="COLLAPSE_FILE_HEADER" value="false" />
   </component>
+  <component name="CodeInsightSettings">
+    <option name="AUTO_POPUP_PARAMETER_INFO" value="false" />
+    <option name="PARAMETER_INFO_DELAY" value="2000" />
+    <option name="JAVADOC_INFO_DELAY" value="2000" />
+  </component>
   <component name="CodeVisionSettings">
     <option name="codeVisionGroupToPosition">
       <map>
@@ -36,6 +41,7 @@
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="REMOVE_TRAILING_BLANK_LINES" value="true" />
+    <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="false" />
     <option name="SHOW_INSPECTION_WIDGET" value="false" />
     <option name="SHOW_INTENTION_BULB" value="false" />
     <option name="IS_CARET_BLINKING" value="false" />
