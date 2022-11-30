@@ -1,0 +1,10 @@
+<application>
+  <component name="RainbowSettings">
+    <option name="enableRainbowAngleBrackets" value="false" />
+    <option name="enableRainbowRoundBrackets" value="false" />
+    <option name="enableRainbowSquareBrackets" value="false" />
+    <option name="rainbowVariablesOptionShowed" value="true" />
+    <option name="showRainbowIndentGuides" value="false" />
+    <option name="version" value="2022.3.5-ij" />
+  </component>
+</application>
