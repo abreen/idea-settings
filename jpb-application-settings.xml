@@ -1,0 +1,27 @@
+<application>
+  <component name="JpaPluginApplicationSettings">
+    <option name="jpaToolWindowState" value="CustomJpaState" />
+  </component>
+  <component name="ViewModeState" structureMode="Project">
+    <option name="entityDesigner">
+      <designerState>
+        <isEditorToolbar>false</isEditorToolbar>
+      </designerState>
+    </option>
+    <option name="liquibaseDesigner">
+      <designerState>
+        <isEditorToolbar>false</isEditorToolbar>
+      </designerState>
+    </option>
+    <option name="repositoryDesigner">
+      <designerState>
+        <isEditorToolbar>false</isEditorToolbar>
+      </designerState>
+    </option>
+    <option name="sqlDesigner">
+      <designerState>
+        <isEditorToolbar>false</isEditorToolbar>
+      </designerState>
+    </option>
+  </component>
+</application>
