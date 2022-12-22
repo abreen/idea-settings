@@ -3,7 +3,7 @@
     <property name="created">2022-11-13T14:35:56</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2022.2.3.0.0</property>
-    <property name="modified">2022-12-22T13:42:20</property>
+    <property name="modified">2022-12-22T13:57:50</property>
     <property name="originalScheme">_@user_IntelliJ Light</property>
   </metaInfo>
   <colors>
@@ -354,7 +354,7 @@
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="21b8ff" />
+        <option name="FOREGROUND" value="31b0ec" />
       </value>
     </option>
     <option name="INACTIVE_HYPERLINK_ATTRIBUTES">
@@ -380,6 +380,11 @@
     <option name="JS.REGEXP">
       <value>
         <option name="FOREGROUND" value="264eff" />
+      </value>
+    </option>
+    <option name="LAMBDA_PARAMETER_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="39bb66" />
       </value>
     </option>
     <option name="List/map to object conversion">
@@ -449,7 +454,7 @@
     <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_FIELD" />
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="11a185" />
+        <option name="FOREGROUND" value="d277ef" />
       </value>
     </option>
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
