@@ -3,7 +3,7 @@
     <property name="created">2022-11-13T14:35:56</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2022.2.3.0.0</property>
-    <property name="modified">2022-12-22T13:57:50</property>
+    <property name="modified">2022-12-27T12:36:44</property>
     <property name="originalScheme">_@user_IntelliJ Light</property>
   </metaInfo>
   <colors>
@@ -28,6 +28,12 @@
         <option name="ERROR_STRIPE_COLOR" value="0" />
       </value>
     </option>
+    <option name="CONSOLE_GRAY_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="dedede" />
+        <option name="BACKGROUND" value="f3f3f3" />
+      </value>
+    </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
         <option name="FOREGROUND" value="0" />
@@ -37,6 +43,12 @@
       <value>
         <option name="FOREGROUND" value="e5fbb" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="CONSOLE_WHITE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="dedede" />
+        <option name="BACKGROUND" value="ffffff" />
       </value>
     </option>
     <option name="CTRL_CLICKABLE">
